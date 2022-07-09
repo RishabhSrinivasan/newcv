@@ -1,0 +1,113 @@
+body
+{
+  margin:0;
+  background-color:#0DA574;
+  text-align:center;
+  font-family: 'Signika Negative', sans-serif
+}
+h1
+{
+  font-size:70px;
+  margin-top:50 auto 5 auto;
+  line-height: 0.5;
+  font-family: 'Finlandica', sans-serif;
+
+}
+h2
+{
+  font-size:2.5rem;
+  font-weight: normal;
+  line-height: 0.5;
+}
+.Top-container
+{
+  padding: 100px;
+  background-color:#083358;
+}
+
+.Middle-container
+{
+
+}
+.bottom-container
+{
+  margin-top:50px;
+  height:100px;
+  background-color:#083358;
+  line-height: 2;
+}
+.Bottom-cloud
+{
+  position: absolute;
+  right:900px;
+
+}
+.Top-cloud
+{
+
+    position: absolute;
+    top: 70px;
+    right: 180px;
+
+}
+.crick
+{
+  width:30%;
+  float:left;
+  margin-right: 30px;
+}
+.Footy
+{
+
+  width:30%;
+  float:right;
+  margin-left: 30px;
+}
+.Pro
+{
+
+  width:20%;
+  height:20%;
+  border-radius: 10%;
+}
+a
+{
+  color:#11999E;
+}
+.skill-row
+{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height:2;
+
+}
+hr
+{
+
+  width: 5%;
+  border-top: 9px dotted #EAF6F6;
+  border-bottom:none;
+  border-right: none;
+}
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #FFDED5;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
